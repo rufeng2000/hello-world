@@ -5,4 +5,5 @@
 A JMP B
   DAT #0
 B DJN B,A
+  DJN B,A
   JMP B
